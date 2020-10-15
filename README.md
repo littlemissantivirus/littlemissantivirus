@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<!-- Pronouns, profile views & dotfiles. -->
+<p align="center">
+  <img src="https://img.shields.io/badge/pronouns-she%2Fthey-ff70c0" alt="Pronouns: She/Her" />
+  <img src="https://komarev.com/ghpvc/?username=littlemissantivirus" alt="littlemissantivirus" />
+  <img src="https://img.shields.io/badge/dotfiles-click-ff70c0" alt="Dotfiles are pinned!"/>
+</p>
+
 <!--
 **littlemissantivirus/littlemissantivirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

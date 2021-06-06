@@ -1,6 +1,6 @@
 <!-- Pronouns, profile views & dotfiles. -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Pronouns-She%2FThey-ff70c0" alt="Pronouns: She/They" />
+  <img src="https://img.shields.io/badge/Pronouns-She%2FHer-ff70c0" alt="Pronouns: She/Her" />
   <img src="https://komarev.com/ghpvc/?username=littlemissantivirus" alt="littlemissantivirus" />
   <a href="https://github.com/littlemissantivirus/dotfiles"><img src="https://img.shields.io/badge/Dotfiles-View%20Repo-ff70c0" alt="Dotfiles are pinned!"/></a>
 </p>
